@@ -1,3 +1,3 @@
 First line in the file.
-Second line of first file.
+Second line modified from feature1 branch.
 Added a line in feature1 branch.
